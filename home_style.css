@@ -3,7 +3,7 @@
 body{
 	margin: 0;
 	padding: 0;
-	background: linear-gradient(0deg, rgba(63, 6, 116, 0.425), rgba(0, 238, 255, 0.055)), url(https://cdn.pixabay.com/photo/2019/04/10/11/56/watercolour-4116932_1280.png);
+	background: linear-gradient(0deg, #3f06746c, #00eeff0e), url(https://cdn.pixabay.com/photo/2019/04/10/11/56/watercolour-4116932_1280.png);
   background-size: cover;
 }
 
@@ -11,7 +11,7 @@ body{
 	position: fixed;
   top: 0;
 	width: 100%;
-	background-color:rgb(146, 210, 221);
+	background-color:#92d2dd;
 	max-height: 125px;
 	display: flex;
 	align-items: center;
@@ -29,10 +29,6 @@ body{
 	font-weight: 700;
 	color: white;
 	margin-right: 20px;
-}
-
-a {
-  color: rgb(15, 54, 61);
 }
 
 .blogTitle{
@@ -89,7 +85,7 @@ a {
 }
 
 .footer{
-	background-color: rgb(146, 210, 221);
+	background-color: #92d2dd;
 	margin-top: 40px;
 	padding-top: 20px;
 	padding-bottom: 20px;
@@ -122,7 +118,7 @@ a {
   position: fixed;
 	top: 200px;
 	height: 200px;
-	background-color:rgb(146, 210, 221);
+	background-color:#92d2dd;
 	padding-top: 100px;
 	border-radius: 10px;
 	box-shadow: 10px 10px 20px  #4b356d;
@@ -143,7 +139,7 @@ a {
 }
 
 a {
-  color: rgb(33, 64, 70);
+  color: #214046;
   text-decoration: none;
 }
 a:hover {

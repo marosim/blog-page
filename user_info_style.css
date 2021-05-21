@@ -11,7 +11,7 @@ body{
 }
 
 a {
-  color: rgb(33, 64, 70);
+  color: #214046;
   text-decoration: none;
 }
 a.navbar-btn:hover {
@@ -33,7 +33,7 @@ top: 15vh;
 
 h2 {
   margin: 7px;
-  color: rgb(33, 64, 70);
+  color: #214046;
 }
 
 .user-info {
@@ -74,13 +74,13 @@ button {
 }
 
 button:hover {
-  background-color: rgb(178, 100, 241);
-  border-color: rgb(178, 100, 241);
+  background-color: #b264f1;
+  border-color: #b264f1;
 }
 
 html {
   min-height: 100%;
-  background: linear-gradient(0deg, rgba(63, 6, 116, 0.425), rgba(0, 238, 255, 0.055)), url(https://cdn.pixabay.com/photo/2019/04/10/11/56/watercolour-4116932_1280.png);
+  background: linear-gradient(0deg, #3f06746c, #00eeff0e), url(https://cdn.pixabay.com/photo/2019/04/10/11/56/watercolour-4116932_1280.png);
   background-size: cover;
 }
 
@@ -89,7 +89,7 @@ html {
 	position: fixed;
   top: 0;
 	width: 100%;
-	background-color:rgb(146, 210, 221);
+	background-color:#92d2dd;
 	max-height: 125px;
 	display: flex;
 	align-items: center;
@@ -111,7 +111,7 @@ html {
 }
 
 .footer{
-	background-color: rgb(146, 210, 221);
+	background-color: #92d2dd;
 	margin-top: 40px;
 	padding-top: 20px;
 	padding-bottom: 20px;
